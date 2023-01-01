@@ -19,3 +19,4 @@ api = Api(app)
 
 api.register_blueprint(ItemBlueprint)
 api.register_blueprint(StoreBlueprint)
+
